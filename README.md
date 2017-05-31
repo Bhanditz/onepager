@@ -53,11 +53,6 @@ Each time you want to work on a fix or a new feature, create a new branch based 
 
 Onepager is maintained by using the [Semantic Versioning Specification (SemVer)](http://semver.org).
 
-## Copyright and License
-
-Copyright [ThemeXpert](http://www.themexpert.com) under the [GNU GPLv3](http://www.gnu.org/licenses/gpl.html) or later.
-
-
 ## Backers
 
 Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/onepager#backer)]
@@ -110,3 +105,6 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 <a href="https://opencollective.com/onepager/sponsor/9/website" target="_blank"><img src="https://opencollective.com/onepager/sponsor/9/avatar.svg"></a>
 
 
+## Copyright and License
+
+Copyright [ThemeXpert](http://www.themexpert.com) under the [GNU GPLv3](http://www.gnu.org/licenses/gpl.html) or later.
