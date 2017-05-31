@@ -1,4 +1,4 @@
-## Onepager [![Join the chat at https://gitter.im/themexpert/onepager](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/themexpert/onepager)
+## Onepager [![Backers on Open Collective](https://opencollective.com/onepager/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/onepager/sponsors/badge.svg)](#sponsors) [![Join the chat at https://gitter.im/themexpert/onepager](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/themexpert/onepager)
 Download - (http://getonepager.com/#download)
 
 
@@ -56,3 +56,57 @@ Onepager is maintained by using the [Semantic Versioning Specification (SemVer)]
 ## Copyright and License
 
 Copyright [ThemeXpert](http://www.themexpert.com) under the [GNU GPLv3](http://www.gnu.org/licenses/gpl.html) or later.
+
+
+## Backers
+
+Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/onepager#backer)]
+
+<a href="https://opencollective.com/onepager/backer/0/website" target="_blank"><img src="https://opencollective.com/onepager/backer/0/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/1/website" target="_blank"><img src="https://opencollective.com/onepager/backer/1/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/2/website" target="_blank"><img src="https://opencollective.com/onepager/backer/2/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/3/website" target="_blank"><img src="https://opencollective.com/onepager/backer/3/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/4/website" target="_blank"><img src="https://opencollective.com/onepager/backer/4/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/5/website" target="_blank"><img src="https://opencollective.com/onepager/backer/5/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/6/website" target="_blank"><img src="https://opencollective.com/onepager/backer/6/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/7/website" target="_blank"><img src="https://opencollective.com/onepager/backer/7/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/8/website" target="_blank"><img src="https://opencollective.com/onepager/backer/8/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/9/website" target="_blank"><img src="https://opencollective.com/onepager/backer/9/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/10/website" target="_blank"><img src="https://opencollective.com/onepager/backer/10/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/11/website" target="_blank"><img src="https://opencollective.com/onepager/backer/11/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/12/website" target="_blank"><img src="https://opencollective.com/onepager/backer/12/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/13/website" target="_blank"><img src="https://opencollective.com/onepager/backer/13/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/14/website" target="_blank"><img src="https://opencollective.com/onepager/backer/14/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/15/website" target="_blank"><img src="https://opencollective.com/onepager/backer/15/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/16/website" target="_blank"><img src="https://opencollective.com/onepager/backer/16/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/17/website" target="_blank"><img src="https://opencollective.com/onepager/backer/17/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/18/website" target="_blank"><img src="https://opencollective.com/onepager/backer/18/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/19/website" target="_blank"><img src="https://opencollective.com/onepager/backer/19/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/20/website" target="_blank"><img src="https://opencollective.com/onepager/backer/20/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/21/website" target="_blank"><img src="https://opencollective.com/onepager/backer/21/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/22/website" target="_blank"><img src="https://opencollective.com/onepager/backer/22/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/23/website" target="_blank"><img src="https://opencollective.com/onepager/backer/23/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/24/website" target="_blank"><img src="https://opencollective.com/onepager/backer/24/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/25/website" target="_blank"><img src="https://opencollective.com/onepager/backer/25/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/26/website" target="_blank"><img src="https://opencollective.com/onepager/backer/26/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/27/website" target="_blank"><img src="https://opencollective.com/onepager/backer/27/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/28/website" target="_blank"><img src="https://opencollective.com/onepager/backer/28/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/backer/29/website" target="_blank"><img src="https://opencollective.com/onepager/backer/29/avatar.svg"></a>
+
+
+## Sponsors
+
+Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/onepager#sponsor)]
+
+<a href="https://opencollective.com/onepager/sponsor/0/website" target="_blank"><img src="https://opencollective.com/onepager/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/sponsor/1/website" target="_blank"><img src="https://opencollective.com/onepager/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/sponsor/2/website" target="_blank"><img src="https://opencollective.com/onepager/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/sponsor/3/website" target="_blank"><img src="https://opencollective.com/onepager/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/sponsor/4/website" target="_blank"><img src="https://opencollective.com/onepager/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/sponsor/5/website" target="_blank"><img src="https://opencollective.com/onepager/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/sponsor/6/website" target="_blank"><img src="https://opencollective.com/onepager/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/sponsor/7/website" target="_blank"><img src="https://opencollective.com/onepager/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/sponsor/8/website" target="_blank"><img src="https://opencollective.com/onepager/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/onepager/sponsor/9/website" target="_blank"><img src="https://opencollective.com/onepager/sponsor/9/avatar.svg"></a>
+
+
