@@ -41,7 +41,8 @@
   "scripts": {
     "start": "gulp",
     "dev": "TARGET=dev webpack --watch --devtool eval --progress --colors --hot",
-    "build": "TARGET=build webpack -p"
+    "build": "TARGET=build webpack -p",
+    "postinstall": "opencollective postinstall"
   },
   "jest": {
     "scriptPreprocessor": "<rootDir>/node_modules/babel-jest",
@@ -63,6 +64,7 @@
     "immutable": "^3.7.4",
     "lodash": "^3.9.3",
     "object-assign": "^2.0.0",
+    "opencollective": "^1.0.3",
     "react": "^0.13.2",
     "react-bootstrap": "^0.21.2",
     "react-router": "^0.13.3",
@@ -72,5 +74,10 @@
     "tinycolor2": "^1.1.2",
     "underscore": "^1.8.3",
     "underscore.string": "^3.1.1"
+  },
+  "collective": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/onepager",
+    "logo": "https://opencollective.com/opencollective/logo.txt"
   }
 }
