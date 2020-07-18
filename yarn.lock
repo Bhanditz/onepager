@@ -542,10 +542,6 @@ camelcase@^2.0.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-2.1.1.tgz#7c1d16d679a1bbe59ca02cacecfb011e201f5a1f"
 
-can-use-dom@0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/can-use-dom/-/can-use-dom-0.1.0.tgz#22cc4a34a0abc43950f42c6411024a3f6366b45a"
-
 caniuse-db@^1.0.30000153, caniuse-db@^1.0.30000214:
   version "1.0.30000666"
   resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000666.tgz#951ed9f3d3bfaa08a06dafbb5089ab07cce6ab90"
@@ -3436,10 +3432,6 @@ q@^1.1.2:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/q/-/q-1.5.0.tgz#dd01bac9d06d30e6f219aecb8253ee9ebdc308f1"
 
-qs@2.4.1:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-2.4.1.tgz#68cbaea971013426a80c1404fad6b1a6b1175245"
-
 qs@6.4.0, qs@~6.4.0:
   version "6.4.0"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.0.tgz#13e26d28ad6b0ffaa91312cd3bf708ed351e7233"
@@ -3504,14 +3496,13 @@ react-hot-loader@^1.2.7:
     react-hot-api "^0.4.5"
     source-map "^0.4.4"
 
-react-router@^0.13.3:
-  version "0.13.6"
-  resolved "https://registry.yarnpkg.com/react-router/-/react-router-0.13.6.tgz#1bc39c745d42326cb51f1c7452479675a5172fa9"
+react-router@^1.0.0:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/react-router/-/react-router-1.0.3.tgz#980ecaa055b86e47c86548c232ae05a88a41f0b7"
+  integrity sha1-mA7KoFW4bkfIZUjCMq4FqIpB8Lc=
   dependencies:
-    can-use-dom "0.1.0"
     invariant "^2.0.0"
-    object-assign "^2.0.0"
-    qs "2.4.1"
+    warning "^2.0.0"
 
 react-tools@~0.13.0:
   version "0.13.3"
@@ -4575,6 +4566,13 @@ vm-browserify@0.0.4:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-0.0.4.tgz#5d7ea45bbef9e4a6ff65f95438e0a87c357d5a73"
   dependencies:
     indexof "0.0.1"
+
+warning@^2.0.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/warning/-/warning-2.1.0.tgz#21220d9c63afc77a8c92111e011af705ce0c6901"
+  integrity sha1-ISINnGOvx3qMkhEeARr3Bc4MaQE=
+  dependencies:
+    loose-envify "^1.0.0"
 
 watchpack@^0.2.1:
   version "0.2.9"
