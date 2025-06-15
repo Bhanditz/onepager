@@ -63,7 +63,7 @@
     "immutable": "^3.7.4",
     "lodash": "^3.9.3",
     "object-assign": "^2.0.0",
-    "react": "^0.13.2",
+    "react": "^15.0.0",
     "react-bootstrap": "^0.21.2",
     "react-router": "^0.13.3",
     "reflux": "^0.2.8",
