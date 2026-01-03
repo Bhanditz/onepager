@@ -65,7 +65,7 @@
     "object-assign": "^2.0.0",
     "react": "^0.13.2",
     "react-bootstrap": "^0.21.2",
-    "react-router": "^0.13.3",
+    "react-router": "^1.0.0",
     "reflux": "^0.2.8",
     "sortablejs": "git+https://github.com/nadimtuhin/Sortable.git",
     "sweetalert": "^1.0.1",
